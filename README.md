@@ -13,5 +13,5 @@ test mode deck codes:
 assassin:p_m01  
 miracle:p_m02  
 
-key word explainations: 
+key word explanations: 
 combo(x): triggers only if you have played x cards before you play this card
