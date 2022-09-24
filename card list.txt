@@ -1,0 +1,33 @@
+Hero power: [preparation] 1 mana: add a shiv to your hand.
+
+4 4/3 epic Human Assassin follower c_11001 Saborza Beheader
+Battlecry: If you have cards in your library, draw two cards; else deal 4 damage.
+
+3 3/2 legendary Human Elf Assassin follower c_11002 Orisk, World’s Nightfall
+Battlecry: Combo(1): Deal 3 damage to the enemy hero; Combo(2): Instead draw 2 cards; Combo(3): Instead destroy an enemy follower; Combo(4): Instead do nothing.
+
+2 2/3 common Human Assassin follower c_11003 The Processor
+Battlecry: Draw an Assassin follower except this one.
+
+3 3/3 rare Human Assassin follower c_11004 The Deadly Knife
+Battlecry: Add a shiv to your hand. Combo(1): Add another.
+
+1 common magic c_m11000 Shiv
+Deal 1 damage. Draw a card.
+
+1 rare Mind magic c_m11001 Thought Gathering
+Draw a card. Combo(3): Draw three instead.
+
+0 epic Mind magic c_m11002 Mind Blast
+Destroy 4 random cards from each library.
+
+7 mythic legendary magic c_11003 Last Stand
+Draw your deck. Add Human or Assassin followers from your graveyard to your hand until your hand is full, they cost 0. At the start of your next turn, you lose the game.
+
+3 common magic c_m11004 Prepared Strike
+Deal 3 damage to target follower. Cost 0 if you have seven or more cards in your hand.
+
+2 rare magic c_11005 Miracle Reappear 
+Draw 4 cards, discard all drawn this way with cost 2 or more.
+
+
