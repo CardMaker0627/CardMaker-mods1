@@ -8,6 +8,7 @@ func init():
     name="Blade Strike"
     tab=""
     dec="Deal 3 damage to target follower. Costs 0 if you have 7 or more cards in your hand."
+    aiTab = "hero_hurt_n:1_p:3"
 
 func _gConnect():
     getHero().hand.connect("onChangeNum",self,"r")
