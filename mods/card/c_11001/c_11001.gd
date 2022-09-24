@@ -10,6 +10,7 @@ func init():
     name = "Saborza Beheader" 
     tab = "Human Assassin 人类 刺客" 
     dec = "Battlecry: If you have cards in your library, draw two cards; else deal 4 damage."
+    aiTab = "hero_hurt_n:1_p:4"
 
 func _connect(): 
     addSkill("k_zhanHou")
