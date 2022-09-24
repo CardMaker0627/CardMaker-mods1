@@ -1,6 +1,8 @@
 # CardMaker-mods
 CardMaker mods
 
+This mod contains 1 new class--Miracle, 1 class hero, 10 new cards of the class, and a pure class with no cards.
+
 copy the mods folder to C:\Program Files (x86)\Steam\steamapps\common\CardMaker
 
 unless you already have diy cards, then you should open each folder of a specific card such as c_11001 and copy them to the same folder in your mods folder.
