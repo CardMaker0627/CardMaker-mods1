@@ -1,5 +1,7 @@
 extends Card
 
+var counter = 0
+
 func init():
     att.cry=7
     lv=5
@@ -35,6 +37,8 @@ func _connect():
 
 func r():
     if sys.scene.roundhero==getHero():
+        counter += 1
+    if counter == 2:
         mountEnd()
 
 func mountEnd():
