@@ -8,6 +8,7 @@ func init():
     name = "Shiv" 
     tab = "" 
     dec = "Deal 1 damage. Draw a card."
+    aiTab = "hero_hurt_n:1_p:1"
 
 func _use(card,cell):
     hurtCard(card,1)
