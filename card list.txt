@@ -22,7 +22,7 @@ Draw a card. Combo(3): Draw three instead.
 Destroy 4 random cards from each library.
 
 7 mythic legendary magic c_11003 Last Stand
-Draw your deck. Add Human or Assassin followers from your graveyard to your hand until your hand is full, they cost 0. At the start of your next turn, you lose the game.
+Draw your whole deck. Add Human or Assassin followers from your graveyard to your hand until your hand is full, they cost 0. At the end of your next turn, you lose the game.
 
 3 common magic c_m11004 Prepared Strike
 Deal 3 damage to target follower. Cost 0 if you have seven or more cards in your hand.
